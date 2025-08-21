@@ -1,0 +1,4 @@
+
+.rbc-month-view .rbc-header:nth-child(1) { color: #e74c3c; }  /* 일요일 빨간색 */
+.rbc-month-view .rbc-header:nth-child(7) { color: #64B5F6; }  /* 토요일 파란색 */
+
